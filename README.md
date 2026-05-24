@@ -1,2 +1,9 @@
 # pre-enrollment
-this is a final requirments of algorithms and complixity using role base algorithm
+
+Initial repository setup for pre-enrollment work.
+
+## Respiratory setup
+
+A new respiratory area is now scaffolded at:
+
+- `respiratory/README.md`
